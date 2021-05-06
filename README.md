@@ -51,4 +51,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
 ### Kayode Richards
+=======
+### I am a merge conflict 👻
+>>>>>>> 4a942b968c6d4941ba0bb4780d9ad746a0785c4a
