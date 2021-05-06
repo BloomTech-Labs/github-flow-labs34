@@ -57,6 +57,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Josiah McKinney
+
 ### Jessica Brown
 
 ### Nick Allen
@@ -68,9 +70,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### Mohammed Dawod
 
 ### Nick Allen
-
-### Paul St.Germain
-
 
 ### Darren Tebo
 
@@ -95,4 +94,3 @@ The following is a list of steps and instructions on how to complete this guided
 ### Wei Wu
 
 ### Tara Timmerman
-
