@@ -55,15 +55,11 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Jessica Brown
 
 ### Nick Allen
-=======
-
 
 ### Kenan Dolic
->>>>>>> 3ca5281940ce6a14bc6b9acd97c3740962868e5b
 
 ### Jennifer Kramer
 
