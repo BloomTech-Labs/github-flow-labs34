@@ -47,11 +47,17 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Nathan Hietala
+
 ### Joe Costa
 
 ### Ryan Hamblin
 
 ### Alice Karsevar
+
+### Nick Allen
+
+### Paul St.Germain
 
 ### Darren Tebo
 
@@ -62,8 +68,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### D'Artagnan von Pingel
 
 ### Nick Allen
-
-### I am a merge conflict 👻
 
 ### Andrew Sohrabi
 
@@ -76,3 +80,4 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jiawei Wu
 
 ### Wei Wu
+
