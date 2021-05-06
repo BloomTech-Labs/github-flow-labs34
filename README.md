@@ -51,7 +51,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Trenten Grede
 =======
 ### Mohammed Dawod
@@ -60,7 +59,3 @@ The following is a list of steps and instructions on how to complete this guided
 ### Katie Olson
 
 ### Nick Allen
-
-
-
->>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
