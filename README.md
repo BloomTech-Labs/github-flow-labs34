@@ -47,16 +47,17 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+
+### Joe Costa
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 ### Mohammed Dawod
+
 ### Nick Allen
-### I am a merge conflict 👻
+
 ### Katie Olson
 
 ### Nick Allen
-
-
-
