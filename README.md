@@ -47,24 +47,27 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+
+### Joe Costa
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Jennifer Kramer
 
-=======
-<<<<<<< HEAD
 ### Nick Allen
-=======
->>>>>>> 4a942b968c6d4941ba0bb4780d9ad746a0785c4a
-=======
+
 ### Mohammed Dawod
+
 ### Nick Allen
->>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
+
 ### I am a merge conflict 👻
+
+### Paul St.Germain
+
+### Mohammed Dawod
+
 ### Katie Olson
 
 ### Nick Allen
