@@ -47,8 +47,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Dan Wright
+
+### Joe Costa
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
 ### Jacob Bohlen
+
+### Jessica Brown
+
+### Nick Allen
