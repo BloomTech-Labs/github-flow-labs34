@@ -54,14 +54,18 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-
-### Kayode Richards
 =======
-### Mohammed Dawod
+### Paul St.Germain
 
-### Nick Allen
+### Mohammed Dawod
 
 ### Katie Olson
 
 ### Nick Allen
+
+### Jiawei Wu
+
+### Nick Allen
 >>>>>>> 63767c8c9171f317bf17879b7cc82fac1aacb5b5
+=======
+>>>>>>> 6ef456f85677dd871c4bc81594ff4a0761940287
