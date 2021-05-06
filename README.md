@@ -55,4 +55,12 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Nick Allen
 
+### Mohammed Dawod
+### Nick Allen
 ### I am a merge conflict 👻
+### Katie Olson
+
+### Nick Allen
+
+
+
