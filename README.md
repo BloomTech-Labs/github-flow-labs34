@@ -51,4 +51,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Patrick Raborn
+=======
+### Mohammed Dawod
+### Nick Allen
+### I am a merge conflict 👻
+### Katie Olson
+
+### Nick Allen
+
+
+
+>>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
