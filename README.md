@@ -47,10 +47,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-<<<<<<< HEAD
-### Chase Bianchi
-=======
 ### Ryan Hamblin
 
 ### Alice Karsevar
->>>>>>> 7378976fc87542824234f41f72c360da8beaff4f
+
+### I am a merge conflict 👻
