@@ -52,3 +52,12 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### Paul St.Germain
+
+### Mohammed Dawod
+### Nick Allen
+
+### Katie Olson
+
+### Nick Allen
+
+
