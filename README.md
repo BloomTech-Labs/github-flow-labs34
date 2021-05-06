@@ -48,3 +48,51 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ## Brandon S
+
+### Dan Wright
+
+### Joe Costa
+
+### Ryan Hamblin
+
+### Alice Karsevar
+
+### Jessica Brown
+
+### Nick Allen
+
+### Kenan Dolic
+
+### Jennifer Kramer
+
+### Nick Allen
+
+### Mohammed Dawod
+
+### Nick Allen
+
+### Paul St.Germain
+
+### Darren Tebo
+
+### Mohammed Dawod
+
+### Katie Olson
+
+### D'Artagnan von Pingel
+
+### Nick Allen
+
+### Andrew Sohrabi
+
+### Paul St.Germain
+
+### Katie Olson
+
+### Nick Allen
+
+### Jiawei Wu
+
+### Wei Wu
+
+### Tara Timmerman
