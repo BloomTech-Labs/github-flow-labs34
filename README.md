@@ -47,23 +47,29 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-<<<<<<< HEAD
 ### Nathan Hietala
-=======
 
 ### Joe Costa
->>>>>>> 6ef456f85677dd871c4bc81594ff4a0761940287
 
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Nick Allen
-=======
+
 ### Paul St.Germain
 
+### Darren Tebo
+
 ### Mohammed Dawod
+
+### Katie Olson
+
+### D'Artagnan von Pingel
+
+### Nick Allen
+
+### Paul St.Germain
 
 ### Katie Olson
 
@@ -71,4 +77,3 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Jiawei Wu
 
->>>>>>> 6ef456f85677dd871c4bc81594ff4a0761940287
