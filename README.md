@@ -45,7 +45,11 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
+
+### Ismael Hernandez
 ### Bernie Durfee
+
+### Dan Wright
 
 ### Joe Costa
 
@@ -53,9 +57,20 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Josiah McKinney
-=======
+
+### Jessica Brown
+
+### Nick Allen
+
+### Jennifer Kramer
+
+### Nick Allen
+
+### Mohammed Dawod
+
+### Nick Allen
+
 ### Darren Tebo
 
 ### Mohammed Dawod
@@ -66,7 +81,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Nick Allen
 
-### I am a merge conflict 👻
+### Andrew Sohrabi
 
 ### Paul St.Germain
 
@@ -77,4 +92,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jiawei Wu
 
 ### Wei Wu
->>>>>>> 6059bbd19d8b2724a5ecac23af8524f6359c9981
+
+### Tara Timmerman
