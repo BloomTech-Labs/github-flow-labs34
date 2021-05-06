@@ -51,4 +51,14 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Kenan Dolic
+=======
+### Katie Olson
+
+### Nick Allen
+
+### I am a merge conflict 👻
+
+
+>>>>>>> 8fa1628fa2757ed99a40754c1819244b33333f67
