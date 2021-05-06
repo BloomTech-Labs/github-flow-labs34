@@ -47,6 +47,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+
+### Joe Costa
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
@@ -56,3 +59,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### I am a merge conflict 👻
 
 ### Daniel Gamboa
+
+### Paul St.Germain
+
+### Mohammed Dawod
+
+### Katie Olson
+
+### Nick Allen
+
+### Jiawei Wu
+
