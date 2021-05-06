@@ -52,6 +52,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Jennifer Kramer
 
 =======
@@ -59,5 +60,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Nick Allen
 =======
 >>>>>>> 4a942b968c6d4941ba0bb4780d9ad746a0785c4a
+=======
+### Mohammed Dawod
+### Nick Allen
+>>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
 ### I am a merge conflict 👻
->>>>>>> 7772bc592fa20c4437cc728c7f1f70abf3dd15db
+### Katie Olson
+
+### Nick Allen
+
+
+
