@@ -48,3 +48,35 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Dan Wright
+
+### Joe Costa
+
+### Ryan Hamblin
+
+### Alice Karsevar
+
+### Darren Tebo
+
+### Mohammed Dawod
+
+### Katie Olson
+
+### D'Artagnan von Pingel
+
+### Nick Allen
+
+### I am a merge conflict 👻
+
+### Andrew Sohrabi
+
+### Paul St.Germain
+
+### Katie Olson
+
+### Nick Allen
+
+### Jiawei Wu
+
+### Wei Wu
+
+### Tara Timmerman
