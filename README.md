@@ -47,6 +47,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+
+### Joe Costa
+
 ### Ryan Hamblin
 
 ### Alice Karsevar
@@ -54,5 +57,11 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Kayode Richards
 =======
-### I am a merge conflict 👻
->>>>>>> 4a942b968c6d4941ba0bb4780d9ad746a0785c4a
+### Mohammed Dawod
+
+### Nick Allen
+
+### Katie Olson
+
+### Nick Allen
+>>>>>>> 63767c8c9171f317bf17879b7cc82fac1aacb5b5
