@@ -53,6 +53,12 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+### Darren Tebo
+
+### Mohammed Dawod
+
+### Katie Olson
+
 ### D'Artagnan von Pingel
 
 ### Nick Allen
@@ -60,8 +66,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### I am a merge conflict 👻
 
 ### Paul St.Germain
-
-### Mohammed Dawod
 
 ### Katie Olson
 
