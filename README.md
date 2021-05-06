@@ -47,7 +47,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-
 ### Joe Costa
 
 ### Ryan Hamblin
@@ -55,14 +54,28 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Jessica Brown
 
 ### Nick Allen
 =======
 ### Paul St.Germain
 >>>>>>> 6ef456f85677dd871c4bc81594ff4a0761940287
+=======
+### Darren Tebo
+>>>>>>> 6059bbd19d8b2724a5ecac23af8524f6359c9981
 
 ### Mohammed Dawod
+
+### Katie Olson
+
+### D'Artagnan von Pingel
+
+### Nick Allen
+
+### I am a merge conflict 👻
+
+### Paul St.Germain
 
 ### Katie Olson
 
@@ -70,3 +83,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Jiawei Wu
 
+### Wei Wu
