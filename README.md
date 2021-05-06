@@ -54,7 +54,21 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 
+
 ### Kenan Dolic
+
+### Jennifer Kramer
+
+### Nick Allen
+
+### Mohammed Dawod
+
+### Nick Allen
+
+### I am a merge conflict 👻
+
+### Paul St.Germain
+
 
 ### Darren Tebo
 
