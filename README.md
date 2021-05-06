@@ -52,11 +52,23 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Michelle Chen 
 =======
 <<<<<<< HEAD
-### Nick Allen
 =======
+### Mohammed Dawod
+>>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
+### Nick Allen
 ### I am a merge conflict 👻
+<<<<<<< HEAD
 >>>>>>> 7772bc592fa20c4437cc728c7f1f70abf3dd15db
 >>>>>>> 4a942b968c6d4941ba0bb4780d9ad746a0785c4a
+=======
+### Katie Olson
+
+### Nick Allen
+
+
+
+>>>>>>> 22218f34d2a11d7b1aad74e155bcbbe37030463d
