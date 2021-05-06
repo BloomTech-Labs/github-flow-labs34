@@ -53,7 +53,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Jennifer Kramer
 
 ### Nick Allen
@@ -65,9 +64,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### I am a merge conflict 👻
 
 ### Paul St.Germain
-=======
+
 ### Darren Tebo
->>>>>>> 6059bbd19d8b2724a5ecac23af8524f6359c9981
 
 ### Mohammed Dawod
 
@@ -77,10 +75,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Nick Allen
 
-<<<<<<< HEAD
-
-
-=======
 ### I am a merge conflict 👻
 
 ### Andrew Sohrabi
@@ -94,4 +88,3 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jiawei Wu
 
 ### Wei Wu
->>>>>>> 6059bbd19d8b2724a5ecac23af8524f6359c9981
